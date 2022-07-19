@@ -1,0 +1,43 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+h1
+ {
+text-align:left;
+background-color:256D28;	
+color:white;
+padding:20;
+}
+nav ul 
+{
+	background-color:A4DDA6;
+	width:100%;
+	list-style-type:none;
+	text-align:left;
+	
+	
+}
+nav li 
+{
+	display:inline-flex;
+}
+nav a 
+{
+	text-decoration:none;
+	color:black;
+	width:100px;
+	padding: 22;
+}
+nav li:hover
+{
+	background-color:CBF2CC;
+}
+img 
+{
+	margin-top:200;
+	margin-left:300;
+	width:1000px;
+	height:500px;
+}
